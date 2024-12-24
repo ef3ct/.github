@@ -52,18 +52,17 @@ And above all, we’re here to build things that work – beautifully, reliably,
 
 Want to explore what we’re up to? Check out our projects:
 
-- [Criteria4s](https://github.com/ef3ct/criteria4s) – An awesome simple DSL to define criteria and predicate expressions for any data stores.
-- [Teckel](https://github.com/ef3ct/teckel) – Super framework for building Apache Spark ETL processes using YAML configuration files.
+- [Criteria4s](https://github.com/eff3ct0/criteria4s) – An awesome simple DSL to define criteria and predicate expressions for any data stores.
+- [Teckel](https://github.com/eff3ct0/teckel) – Super framework for building Apache Spark ETL processes using YAML configuration files.
 
 ## Connect With Us
 
 Let’s stay in touch:
 
 - **Follow me on LinkedIn**: [Rafael Fernandez](https://www.linkedin.com/in/rafael-fernandez-ortiz/)
-- **Join our discussions**: [GitHub Discussions](https://github.com/orgs/ef3ct/discussions)
+- **Join our discussions**: [GitHub Discussions](https://github.com/orgs/eff3ct0/discussions)
 - **Shoot us an email**: hello@eff3ct.com
 
 ---
 
 Let’s put the *function* in functional programming. Together, we’ll make software that doesn’t just work – it Eff3cts change.
-
